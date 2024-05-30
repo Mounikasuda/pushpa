@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1716983828,,"wq"
+|2,0,1717064689,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,78 @@
 # Registers:
 
 # File marks:
-'0  5  0  ~/mouni
-|4,48,5,0,1716983828,"~/mouni"
+'0  1  4  ~/.gitignore
+|4,48,1,4,1717064689,"~/.gitignore"
+'1  2  4  ~/.gitigonre
+|4,49,2,4,1717064543,"~/.gitigonre"
+'2  1  4  ~/.gitignore
+|4,50,1,4,1717064371,"~/.gitignore"
+'3  5  0  ~/mouni
+|4,51,5,0,1716983828,"~/mouni"
 
 # Jumplist (newest first):
+-'  1  4  ~/.gitignore
+|4,39,1,4,1717064689,"~/.gitignore"
+-'  2  4  ~/.gitigonre
+|4,39,2,4,1717064543,"~/.gitigonre"
+-'  2  4  ~/.gitigonre
+|4,39,2,4,1717064543,"~/.gitigonre"
+-'  1  0  ~/.gitigonre
+|4,39,1,0,1717064524,"~/.gitigonre"
+-'  1  0  ~/.gitigonre
+|4,39,1,0,1717064524,"~/.gitigonre"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1717064371,"~/.gitignore"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1717064371,"~/.gitignore"
+-'  5  0  ~/mouni
+|4,39,5,0,1716983828,"~/mouni"
+-'  5  0  ~/mouni
+|4,39,5,0,1716983828,"~/mouni"
+-'  5  0  ~/mouni
+|4,39,5,0,1716983828,"~/mouni"
+-'  5  0  ~/mouni
+|4,39,5,0,1716983828,"~/mouni"
+-'  5  0  ~/mouni
+|4,39,5,0,1716983828,"~/mouni"
+-'  5  0  ~/mouni
+|4,39,5,0,1716983828,"~/mouni"
+-'  5  0  ~/mouni
+|4,39,5,0,1716983828,"~/mouni"
 -'  5  0  ~/mouni
 |4,39,5,0,1716983828,"~/mouni"
 -'  1  0  ~/mouni
 |4,39,1,0,1716983796,"~/mouni"
+-'  1  0  ~/mouni
+|4,39,1,0,1716983796,"~/mouni"
+-'  1  0  ~/mouni
+|4,39,1,0,1716983796,"~/mouni"
+-'  1  0  ~/mouni
+|4,39,1,0,1716983796,"~/mouni"
+-'  1  0  ~/mouni
+|4,39,1,0,1716983796,"~/mouni"
+-'  1  0  ~/mouni
+|4,39,1,0,1716983796,"~/mouni"
+-'  1  0  ~/mouni
+|4,39,1,0,1716983796,"~/mouni"
+-'  1  0  ~/mouni
+|4,39,1,0,1716983796,"~/mouni"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1717064687	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/.gitigonre
+	*	1717064539	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	2	4
 
 > ~/mouni
 	*	1716983824	0
